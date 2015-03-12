@@ -2,10 +2,10 @@
   "ProjectName": "ProjTest_HybridKendoUITabStrip",
   "ProjectGuid": "0ce99576-7df3-496f-bc88-1cad7f268a30",
   "projectVersion": 1,
-  "AppIdentifier": "com.telerik.ProjTestHybridKendoUITabStrip",
+  "AppIdentifier": "com.telerik.teststsete.ProjTestHybridKendoUITabStrip",
   "DisplayName": "ProjTest_HybridKendoUITabStrip",
   "Author": "",
-  "Description": "",
+  "Description": "ProjTest_HybridKendoUITabStrip",
   "BundleVersion": "1.0",
   "AndroidVersionCode": "1",
   "iOSDeviceFamily": [
