@@ -30,8 +30,6 @@
   "WP8PublisherID": "{7038986f-60aa-45a1-a9c6-b2fd28c028a3}",
   "WP8ProductID": "{5d8df4b7-fd40-4a7b-8b0e-7f6772bb0bd1}",
   "WPSdk": "8.0",
-  "WP8PackageIdentityName": "1234Telerik.ProjTestHybridKendoUITabStrip",
-  "WP8WindowsPublisherName": "CN=Telerik",
   "WP8SupportedResolutions": [
     "ID_RESOLUTION_WVGA",
     "ID_RESOLUTION_WXGA",
