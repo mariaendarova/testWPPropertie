@@ -1,0 +1,40 @@
+{
+  "ProjectName": "ProjTest_HybridKendoUITabStrip",
+  "ProjectGuid": "0ce99576-7df3-496f-bc88-1cad7f268a30",
+  "projectVersion": 1,
+  "AppIdentifier": "com.telerik.ProjTestHybridKendoUITabStrip",
+  "DisplayName": "ProjTest_HybridKendoUITabStrip",
+  "Author": "",
+  "Description": "",
+  "BundleVersion": "1.0",
+  "AndroidVersionCode": "1",
+  "iOSDeviceFamily": [
+    "1",
+    "2"
+  ],
+  "iOSBackgroundMode": [],
+  "ProjectTypeGuids": "{070BCB52-5A75-4F8C-A973-144AF0EAFCC9}",
+  "FrameworkVersion": "3.5.0",
+  "AndroidPermissions": [],
+  "DeviceOrientations": [
+    "Portrait",
+    "Landscape"
+  ],
+  "AndroidHardwareAcceleration": "false",
+  "iOSStatusBarStyle": "Default",
+  "Framework": "Cordova",
+  "WP8TileTitle": "",
+  "WP8Publisher": "",
+  "WP8Capabilities": [],
+  "WP8Requirements": [],
+  "WP8PublisherID": "{7038986f-60aa-45a1-a9c6-b2fd28c028a3}",
+  "WP8ProductID": "{5d8df4b7-fd40-4a7b-8b0e-7f6772bb0bd1}",
+  "WPSdk": "8.0",
+  "WP8PackageIdentityName": "1234Telerik.ProjTestHybridKendoUITabStrip",
+  "WP8WindowsPublisherName": "CN=Telerik",
+  "WP8SupportedResolutions": [
+    "ID_RESOLUTION_WVGA",
+    "ID_RESOLUTION_WXGA",
+    "ID_RESOLUTION_HD720P"
+  ]
+}
